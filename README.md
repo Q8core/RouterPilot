@@ -28,6 +28,18 @@ Get a lower, steadier ping for **PUBG Mobile**, Free Fire, Call of Duty, FIFA an
 
 </div>
 
+## More apps by Q8Core
+
+| App | What it does | |
+|---|---|---|
+| [ScrimBoard](https://github.com/Q8core/ScrimBoard) | Points tables for PUBG Mobile & Free Fire scrims | Free · Web |
+| [Qore DualLink](https://github.com/Q8core/Qore-DualLink) | Use all your internet connections at once | Free · Windows · Linux |
+| [PDF Toolkit Free](https://github.com/Q8core/PDF-Toolkit-Free) | Offline PDF tools + Arabic/English OCR | Free · Windows · Linux |
+| [DeviceDeck](https://q8core.com/app/devicedeck.html) | Mirror & control your Android phone from your PC | Pro · Windows · Linux |
+| [Auto-Tap](https://q8core.com/app/auto-tap.html) | Repeat taps in any app at the spot and speed you pick | Pro · Android |
+
+**All apps: [q8core.com](https://q8core.com)**
+
 ---
 
 Made by **[Q8Core](https://q8core.com)**. Free to use; all rights reserved.
